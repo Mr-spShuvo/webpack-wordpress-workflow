@@ -18,4 +18,4 @@
 - 📌 Adds HOT RELOAD instead of HOT Restart
 - 📌 Code Comments
 - 📌 Write Documentations
-- 📌 Rewrite Production Config
+- 📌 Add Production Config
